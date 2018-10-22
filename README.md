@@ -1,15 +1,15 @@
 
-Calculator com Appium,cucumber e Java android e ios 
+<h1>Calculator com Appium,cucumber e Java android e ios </h1>
 
 Um simples projeto de teste com Appium,Java e Cucumber para iOs e Android 
 
-Dependencies
-Appium
-Java
-Cucumber
+<h3> Dependencies </h3>
+<p>Appium</p>
+<p>Java</p>
+<p>Cucumber</p>
 
-Gerenciador de dependencies
+<h3>Gerenciador de dependencies</h3>
 Maven
 
-Executa
+<h3> Executar os testes </h3>
 mvn test
